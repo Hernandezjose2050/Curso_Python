@@ -11,5 +11,13 @@
    nombre: carlos
    apellido: hernandez'''
 
+# numeros enteros 
+40
 
-    
+#numeros flotantes
+3.12
+
+#Booleanos
+True
+False
+
